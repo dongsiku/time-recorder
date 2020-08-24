@@ -1,0 +1,3 @@
+@echo off
+echo Recording start time ...
+powershell -NoProfile -ExecutionPolicy Unrestricted .\record_time.ps1 -start
